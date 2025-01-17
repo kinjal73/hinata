@@ -2,6 +2,7 @@ hgjcjzdgjsgj
 kgjsdfsadfh
 aslhkfdfkhdsa
 sjkadhfk
+<<<<<<< HEAD
 
 
 
@@ -12,3 +13,5 @@ okokokokokokokokokokok:wq
 
 yes boss yes bosss
 
+=======
+>>>>>>> parent of 972ba11 (second done 456)
